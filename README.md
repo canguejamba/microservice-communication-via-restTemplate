@@ -1,4 +1,14 @@
 # Microservice Communication via RestTemplate
+<<<<<<< HEAD
+=======
+
+
+#### Post Manager
+simple microservice for managing posts: \
+article service \
+comment service \
+notification service 
+>>>>>>> 4f53dda9f5bb6beda5b3d1d03ad7ce6affe077a3
 
 
 
