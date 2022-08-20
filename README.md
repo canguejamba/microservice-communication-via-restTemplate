@@ -1,4 +1,4 @@
-# microservice-communication-via-restTemplate
+# Microservice Communication via RestTemplate
 
 
 #### Post Manager
