@@ -7,7 +7,8 @@ This codebase was created to demonstrate a fully fledged full-stack application 
 
 For more information on this project go to the [Microservices](https://github.com/canguejamba/microservices) repo.
 
-
+### Microservices diagram
+![](/resources/screenshot.png)
 
 ### Getting started restTemplate
 
